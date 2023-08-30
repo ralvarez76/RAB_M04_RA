@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RAB_M04_RA</Name>
+    <Assembly>RAB_M04_RA.dll</Assembly>
+    <FullClassName>RAB_M04_RA.App</FullClassName>
+    <ClientId>8E449752-136E-4275-9171-04558733C341</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
